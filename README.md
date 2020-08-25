@@ -1,1 +1,6 @@
-"Nodejs chat realtime\nTo run application\n1. npm install\n2. node server.js" 
+Author: Nguyễn Anh Tùng
+MSV: 16150289
+Nodejs chat realtime
+To run application
+	1. npm install
+	2. node server.js" 
